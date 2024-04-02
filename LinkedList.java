@@ -1,9 +1,3 @@
-/*Iliya Klishin
- *Dr. Steinberg
- *COP3330 Spring 2022
- *Programming Assignment 5
- */
- 
   class Node <T>{
   
   Node <T> next;
